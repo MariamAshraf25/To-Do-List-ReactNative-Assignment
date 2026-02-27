@@ -2,7 +2,7 @@
 **Student Name:** Mariam Ashraf Hassan Mohamed
 
 ## Project Description
-A professional React Native mobile application built with Expo for managing daily tasks. The app features a vibrant emerald-green design, custom fonts, and a dual-scroll system for active and completed tasks.
+A React Native mobile application built with Expo for managing daily tasks. The app features a coordinated color scheme, custom fonts, and a dual-scroll system for active and completed tasks.
 
 ## Live Demo
 You can try the live application on Expo Snack here:
